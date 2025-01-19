@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+    background-color: #421121;
+    color: #ffffff;
+    font-family: "Archivo Black", serif
+}
+
+#main {
+    text-align: center;
+    margin-top: 50vh;
+    margin-bottom: 50vh;
+
+}
+
+#entry {
+    font-size: 130%;
+}
